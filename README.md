@@ -1,3 +1,4 @@
-#Les Étoiles Perdues dans l'Océan de l'Infini
+# Les Étoiles Perdues dans l'Océan de l'Infini
 
-Dans un monde où les étoiles sont des portails vers d'autres dimensions, une jeune astronomie nommée Léa découvre un mystérieux astre égaré dans l'océan de l'infini. Intriguée, elle décide de suivre son éclat énigmatique qui la mène vers un univers inconnu. Accompagnée de son fidèle compagnon robotique, elle se lance dans une aventure intergalactique pour percer les secrets des étoiles perdues.
+Dans un monde où les étoiles sont des portails vers d'autres dimensions, une jeune astronomie nommée **Léa** découvre un mystérieux astre égaré dans l'*océan* de l'infini. Intriguée, elle décide de suivre son éclat énigmatique qui la mène vers un univers inconnu. Accompagnée de son fidèle compagnon robotique, elle se lance dans une aventure intergalactique pour percer les secrets des étoiles perdues.  
+Dans sa quête, **Léa** dévoile des civilisations anciennes et des conflits cosmiques, mais aussi la vérité sur son propre héritage stellaire, illuminant ainsi les ombres de l'univers.
